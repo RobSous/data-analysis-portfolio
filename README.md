@@ -1,10 +1,10 @@
-# Data Science portfolio
+# Portafolio de Análisis de datos
 
-## About Me
+## Sobre mí
 
-Mathematicioan transitioning into Data Science with strong analytical skills and experience in machine learning.
+Matemático, especializado en Análisis de datos con habilidades de análisis, problemas de optimización y con experiencia en Machine Learning
 
-## Projects
+## Proyectos
 
 ### K Neighbors Clasifier
 
@@ -12,7 +12,7 @@ https://github.com/RobSous/KNeighborsClassifier-Credit
 
 ## Skills
 
-- **Programming**: Python, SQL, MATLAB
-- **ML Libraries**: Scikit-learn, TensorFlow, Keras
-- **Data Analysis**: Pandas, NumPy, Matplotlib
-- **Tools**: Jupyter, Git, Power BI
+- **Programación**: Python, SQL, MATLAB, C++
+- **Librerias de Machine Liarning**: Scikit-learn, TensorFlow, Keras
+- **Análisis de datos**: Pandas, NumPy, Matplotlib
+- **Herramientas**: Jupyter, Git, Power BI

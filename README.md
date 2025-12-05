@@ -1,4 +1,4 @@
-# Dataa Science portfolio
+# Data Science portfolio
 
 ## About Me
 

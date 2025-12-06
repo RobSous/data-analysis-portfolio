@@ -6,9 +6,13 @@ Matemático, especializado en Análisis de datos con habilidades de análisis, p
 
 ## Proyectos
 
-### K Neighbors Clasifier
+### K vecinos
 
-https://github.com/RobSous/KNeighborsClassifier-Credit
+https://github.com/RobSous/k-vecinos.git
+
+### Regresión Lineal
+
+https://github.com/RobSous/regresion_lineal.git
 
 ## Skills
 

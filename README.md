@@ -14,6 +14,11 @@ https://github.com/RobSous/k-vecinos.git
 
 https://github.com/RobSous/regresion_lineal.git
 
+### Árboles aleatorios
+
+https://github.com/RobSous/bosques_aleatorios.git
+
+
 ## Skills
 
 - **Programación**: Python, SQL, MATLAB, C++
